@@ -1,0 +1,9 @@
+[package]
+
+name = "variables"
+version = "0.0.1"
+authors = [ "Brandon Newton <btea.newton@gmail.com" ]
+
+[[bin]]
+
+name = "variables"
